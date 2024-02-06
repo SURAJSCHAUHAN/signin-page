@@ -11,16 +11,3 @@
 background-color: #224957;
 outline: none;
 }
-
-input[type="checkbox"]{
-  appearance: none;
-  -webkit-appearance: none;
-  height: 15px;
-  width: 15px;
-  border-radius: 5px;
-  background-color: #224957;
-  cursor: pointer;
-}
-input[type="checkbox"]:checked{
-  background-color: #1dcabc;
-}
